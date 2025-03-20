@@ -1,5 +1,5 @@
 cg:
   env: dev
   name: micros-1
-  version: '8168ed5ba1c587bcbf0c2a51c7e688dc04408b2d94e98e1335860f16e86b1626'
+  version: '{cipher}8168ed5ba1c587bcbf0c2a51c7e688dc04408b2d94e98e1335860f16e86b1626'
   author: DEV-CG
